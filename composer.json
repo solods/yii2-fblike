@@ -1,0 +1,31 @@
+{
+  "name": "solods/yii2-fblike",
+  "description": "Yii2 Widget for fblike",
+  "keywords": ["yii2", "fblike"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Solodyankin",
+      "email": "gray-82@mail.ru"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/solods/yii2-fblike/issues?state=open",
+    "source": "https://github.com/solods/yii2-fblike"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.5",
+    "scrutinizer/ocular": "~1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "solods\\yii2\\fblike\\": "src"
+    }
+  }
+}
