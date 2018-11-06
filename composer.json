@@ -1,5 +1,6 @@
 {
   "name": "solods/yii2-fblike",
+  "version": "0.1",
   "description": "Yii2 Widget for fblike",
   "keywords": ["yii2", "fblike"],
   "type": "yii2-extension",
